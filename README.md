@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Oussema Khorchani a final year business intelligence student at ESPRIT  
- -🌱 I’m currently learning data engineering and Odoo development
+### Hi there 👋 I'm Oussema a junior software data engineer   
+ - 🔭 I’m currently seeking a first professional experiance
  
  -📫 How to reach me: oussema.khorchani@esprit.tn
 <!--
@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently seeking an end-of-study internship in data engineering
+- 🔭 I’m currently seeking a first professional experiance
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
