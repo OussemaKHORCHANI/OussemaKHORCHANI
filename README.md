@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Oussema a junior software data engineer   
- - 🔭 I’m currently seeking a first professional experiance
- 
+### Hi there 👋 I'm Oussema a junior software data engineer 
+
+ -🔭 I’m currently seeking a first professional experiance
  -📫 How to reach me: oussema.khorchani@esprit.tn
 <!--
 **OussemaKHORCHANI/OussemaKHORCHANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
